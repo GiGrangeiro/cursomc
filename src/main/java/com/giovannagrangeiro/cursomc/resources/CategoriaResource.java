@@ -21,7 +21,7 @@ public class CategoriaResource {
 		Categoria cat2 = new Categoria(2,"Escritório");
 		
 		List<Categoria> lista = new ArrayList<>();
-		lista.add(cat2);
+		lista.add(cat1);
 		lista.add(cat2);
 		
 		
