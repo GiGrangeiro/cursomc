@@ -7,6 +7,7 @@ import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
+
 @Embeddable
 public class ItemPedidoPK implements Serializable{
 	private static final long serialVersionUID = 1L;
