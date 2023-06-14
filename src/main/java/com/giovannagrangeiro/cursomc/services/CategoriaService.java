@@ -13,7 +13,6 @@ import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.giovannagrangeiro.cursomc.domain.Categoria;
-import com.giovannagrangeiro.cursomc.domain.Cliente;
 import com.giovannagrangeiro.cursomc.dto.CategoriaDTO;
 import com.giovannagrangeiro.cursomc.repositories.CategoriaRepository;
 import com.giovannagrangeiro.cursomc.services.exception.DataIntegrityException;
